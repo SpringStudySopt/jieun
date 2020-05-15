@@ -58,7 +58,7 @@
 
 예제로 배우는 스프링 입문 ~ 스프링 Ioc 컨테이너
 
-먼저 인텔리제이에 https://github.com/spring-projects/spring-petclinic에 들어가 클론한다.
+먼저 인텔리제이에 https://github.com/spring-projects/spring-petclinic를 클론하여 프로젝트를 생성
 
 클론해온 프로젝트를 localhost:8080 해서 들어가보면 스프링부트를 기반으로한 동물병원 웹에플리케이션이 나온다.
 
