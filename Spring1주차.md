@@ -25,6 +25,7 @@
 - 데이터 요청 후 응답이 오면 연결은 끊어짐
 
 **REST API**
+
 **C** : Create - POST
 
 **R** : Read - GET
