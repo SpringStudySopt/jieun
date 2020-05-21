@@ -1,4 +1,4 @@
-## Spring Study 1 주차 :books:
+## Spring Study 2 주차 :books:
 
 
 #### 결합도가 높은 프로그램
