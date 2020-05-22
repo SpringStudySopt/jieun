@@ -324,6 +324,6 @@ Maven Dependencies : 라이브러리 관리 도구 (maven에서 다운받은 jar
 
 [스프링 프로젝트 구조](https://jayviii.tistory.com/15)
 
-[스프링  구조1]()(https://doublesprogramming.tistory.com/16)
+[스프링 프로젝트 구조1](https://doublesprogramming.tistory.com/16)
 
 [스프링 컨테이너 및 설정 파일](https://backback.tistory.com/74?category=695393)
