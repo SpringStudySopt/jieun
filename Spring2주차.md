@@ -253,17 +253,17 @@ public class TVUser {
 
 #### 스프링 XML 설정
 
-1.  <beans> 루트 엘리먼트 
+1.  < beans > 루트 엘리먼트 
 
-2.  <import> 엘리먼트
+2.  < import > 엘리먼트
 
     : 기능별로 나눈 XML 파일을 하나로 통합할때 사용
 
-3.  <bean> 엘리먼트
+3.  < bean > 엘리먼트
 
     : id, class 속성으로 객체를 생성
 
-   *<bean> 엘리먼트의 속성
+   * < bean > 엘리먼트의 속성
 
    1) init-method
 
